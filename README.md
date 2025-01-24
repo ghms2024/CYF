@@ -1,4 +1,3 @@
-
 <html lang="en">
     <title>Even Invitation</title>
     <style>
