@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
     <title>Even Invitation</title>
     <style>
@@ -27,4 +27,3 @@
             <a class="rsvp-button" href="file:///C:/Users/Hossein.Sarani/Desktop/html-css/Step-3/Blog-Hossein%20moghimi.html">RSVP Now</a>
         </div>
     </body>
-</html
